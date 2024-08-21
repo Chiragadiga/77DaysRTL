@@ -1,0 +1,32 @@
+{
+    "top": [
+        "top",
+        "Emx8S",
+        "module",
+        2
+    ],
+    "std": [
+        "std",
+        "reYIK",
+        "module",
+        1
+    ],
+    "AccInterface": [
+        "AccInterface",
+        "mY12q",
+        "module",
+        3
+    ],
+    "accumulator": [
+        "accumulator",
+        "v8fid",
+        "module",
+        4
+    ],
+    "...MASTER...": [
+        "SIM",
+        "amcQw",
+        "module",
+        5
+    ]
+}
